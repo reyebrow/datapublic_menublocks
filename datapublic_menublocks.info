@@ -1,7 +1,7 @@
 name = "DataPublic Menu Blocks"
 description = "Provides Menu Block settings for the DataPublic Distro"
 core = "7.x"
-package = "Features"
+package = "DataPublic Settings"
 dependencies[] = "ctools"
 dependencies[] = "fe_block"
 dependencies[] = "features"
